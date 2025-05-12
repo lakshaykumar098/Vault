@@ -1,5 +1,5 @@
 
-# 🔐 Vault: Password Manager (Secure CLI Tool)
+# 🔐 Vault: AI Password Manager (Secure CLI Tool)
 
 A fully encrypted, interactive password manager built for security and usability.  
 Now featuring a streamlined menu-only interface, strong password enforcement, encrypted storage, breach detection, and one-time authentication.
