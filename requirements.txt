@@ -1,0 +1,13 @@
+# Core dependencies
+numpy
+scikit-learn
+joblib
+requests
+pandas
+colorama
+# Encryption & Security
+cryptography
+
+# Terminal interaction
+getpass4
+
